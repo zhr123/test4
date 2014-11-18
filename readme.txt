@@ -3,4 +3,5 @@ int b;
 int c=4;
 int f;
 int t=111;
-char
+int
+
