@@ -2,4 +2,4 @@ int a;
 int b;
 int c=4;
 int f;
-int 
+int t=111;
